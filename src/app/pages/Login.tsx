@@ -88,15 +88,6 @@ export function Login() {
             <Button type="submit" className="w-full rounded-lg bg-[#FCA311] hover:bg-[#FCA311]/90">
               Iniciar sesión
             </Button>
-
-            <div className="pt-4 border-t">
-              <p className="text-sm text-gray-500 text-center mb-2">Usuarios de prueba:</p>
-              <div className="text-xs text-gray-600 space-y-1">
-                <p>• Admin: admin / admin</p>
-                <p>• Recepcionista: recep / 1234</p>
-                <p>• Mecánico: mec / 1234</p>
-              </div>
-            </div>
           </form>
         </CardContent>
       </Card>
